@@ -1,0 +1,12 @@
+# Environment Variables
+.env
+
+# Binaries
+main
+p1/main
+p2/main
+p3/main
+p4/main
+
+# OS specific
+.DS_Store
